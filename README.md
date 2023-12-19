@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Parag (@parag1604)
-- 👀 I’m interested in Statistical machine learning and web development
-- 🌱 I’m currently learning Causality
+- 👋 Hi, I’m Parag (@parag1604; Alternate Profile @paragduttaiisc)
+- 👀 I’m interested in artifical intelligence and web development
+- 🌱 I’m currently learning reinforcment learning
 - 📫 How to reach me: https://www.linkedin.com/in/parag1604/
 <!---
 - 💞️ I’m looking to collaborate on ...
