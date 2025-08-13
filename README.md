@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Parag (@parag1604; Alternate Profile [@paragduttaiisc](https://github.com/paragduttaiisc))
 - 👀 I’m interested in artifical intelligence and web development
 - 🌱 I’m currently learning reinforcment learning
-- 📫 How to reach me: https://www.linkedin.com/in/parag1604/
+- 📫 How to reach me: https://parag1604.github.io/
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
